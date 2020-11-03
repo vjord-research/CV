@@ -6,7 +6,7 @@
 * **[Software University](https://softuni.bg)<sup id="a1">[1](#f1)</sup> - Professional Diploma: Software Engineering, multi-major, focus on technologies (pre-session: Q4 2015, coursework: H2 2016-2020, per course certificates)** 
     ##### **Tracks followed: `C# Web Developer (major);` `Java Web Developer (major);` `Python Web Developer (major);` `C++ Developer (major);` `JS Web Developer (major);` PHP Web Developer (minor)**; Electives (specialized courses + general IT topics)
     ##### **Active education<sup id="a2">[2](#f1)</sup> -> `completed.` Diploma -> `pending.` Elective courses -> `open-ended` (continuously taking suitable newcomers).** 
-* **[Sofia University](https://www.fmi.uni-sofia.bg/en/artificial-intelligence) - MSc Artificial Intelligence, selective focus on topics and courses (coursework: 2020-2021 + (2004-2005)<sup id="a2">[2](#f1)</sup>)** 
+* **[Sofia University](https://www.fmi.uni-sofia.bg/en/artificial-intelligence) - MSc Artificial Intelligence, selective focus on topics and courses (coursework: 2020-2021 + (2004-2005)<sup id="a3">[3](#f1)</sup>)** 
     ##### **Advanced Courses (MSc level): Neural Networks, Machine Learning, Reinforcement Learning, Deep Learning TensorFlow, Data Science & Mining, Natural Language Processing, Graph Algorithms, Fast Algorithms, Parallel Algorithms, and Discrete Optimization;**
     ##### **Thesis & Diploma -> `pending.`**
 * **[Coursera](http://coursera.org) - continuous training**
@@ -89,6 +89,6 @@
 * OCaml and Haskell -> 1+ year of experience
 
 ###### *<b id="f1">1</b> The Software University is a professiona academy (EU law accredited) and the major institution of producing software engineers for the presently booming traditional ([ref1](https://en.wikipedia.org/wiki/John_Vincent_Atanasoff), [ref2](https://en.wikipedia.org/wiki/Pravetz_computers), [ref3](http://stats.ioinformatics.org/countries/), [ref3a](https://www.imo-official.org/results.aspx)) IT sector in Bulgaria and beyond (an international leg forthcoming) via mass education.[↩](#a1)*
-###### *<b id="f1">2</b> Some courses were recognized from previous studies completed at Sofia University in the period 2004-2005.[↩](#a2)* 
-###### *<b id="f1">3</b> All modules and material -> covered. Some exams pending due to many exam dates overlaps -> covered usually by weekend fly-outs to Sofia (exams -> Sunday mornings).[↩](#a3)* 
+###### *<b id="f1">2</b> All modules and material -> covered. Some exams pending due to many exam dates overlaps -> covered usually by weekend fly-outs to Sofia (exams -> Sunday mornings).[↩](#a2)* 
+###### *<b id="f1">3</b> Some courses were recognized from previous studies completed at Sofia University in the period 2004-2005.[↩](#a3)* 
 ###### *<b id="f1">4</b> NASD is a professional academy certified by the Ministry of Education specialized in offering tailor-made solutions in the IT education: in-house advanced corporate trainings, individual courses, small group seminars, etc.[↩](#a4)* 
