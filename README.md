@@ -1,6 +1,6 @@
 ## V.J. IT CV
 ##### **Technologies: Major focus on `C#`, `C++`, `Python`, `Java`, and `Matlab` plus some `JS` and `PHP` for applications in `Financial Engineering` -> emphasis on `core programming` and selective `database applications`, `less on web applications`.**
-##### **Theory and applications: Selective focus on `AI` for applications in `Finance` and `Financial Engineering`.**
+##### **Theory and applications: Selective focus on `Artificial Intelligence` for applications in `Finance` and `Financial Engineering`.**
 ### **IT Training:**
 
 * **[Software University](https://softuni.bg)<sup id="a1">[1](#f1)</sup> - Professional Diploma: Software Engineering, multi-major, focus on technologies (pre-session: Q4 2015, coursework: H2 2016-2020, per course certificates)** 
