@@ -29,7 +29,7 @@
 |C# Web:|C# Web Basics`[0/12]`|ASP.NET Core`[0/18]`|
 |Front-End (non-mandatory):|HTML & CSS mini `[0/0]` (no exam)|
 
-#### 2) JS Web Developer track (minor) `[90/90]`: total credits reached, diploma -> 1 course to go..! 
+#### 2) JS Web Developer track (major) `[90/90]`: total credits reached, diploma -> 1 course to go..! 
 
 |Module/Course`[41/57]`|       |       |        |   
 | :----------------|:----------------|:----------------|:----------------|
@@ -37,7 +37,7 @@
 |JavaScript Web:|Node.js & Express.js`[0/8]`|[ReactJS](https://softuni.bg/certificates/details/57642/f47efbf7)`[8/8]`|Angular 2`[6/8]`|
 |Front-End (non-mandatory):|HTML & CSS mini `[0/0]`|
 
-#### 3) Java Web Developer track (minor) `[150/150]`: total credits reached, diploma -> 2 courses to go..! 
+#### 3) Java Web Developer track (major) `[150/150]`: total credits reached, diploma -> 2 courses to go..! 
 
 |Module/Course`[67/102]`|        |        |        |   
 |:-------------------|:-------------------|:-------------------|:-------------------|
@@ -47,7 +47,22 @@
 |Java Web:|Spring Fundamentals`[0/12]`|Spring Advanced`[0/18]`|
 |Front-End (non-mandatory):|HTML & CSS mini `[0/0]` (no exam)|
 
-#### 4) PHP Web Developer track (minor) `[90/90]`: total credits reached, diploma -> 1 course to go..! 
+#### 3) Python Web Developer track (major) `[120/150]`: total credits close, diploma -> 2 courses to go..! 
+
+|Module/Course`[48/78]`|        |        |        |   
+|:-------------------|:-------------------|:-------------------|:-------------------|
+|Python Advanced:|[Python Advanced](https://softuni.bg/certificates/details/13010/4ec66d1d)`[12/12]`|Python OOP `[0/15]`
+|JavaScript Core:|[JS Fundamentals](https://softuni.bg/certificates/details/20695/9feec24e)`[9/9]`|[JS Advanced](https://softuni.bg/certificates/details/21911/a411ddcd)`[9/9]`|[JS Applications](https://softuni.bg/certificates/details/22571/24dd49e3)`[9/9]`|
+|Python Web:|Python Web Basics`[9/9]`|Django`[0/15]`|
+|Front-End (non-mandatory):|HTML & CSS mini `[0/0]` (no exam)|
+
+#### 4) C++ Developer track (major) `[12/12]`: total credits reached, diploma -> per course certificates (no separate diploma)
+
+|Module/Course`[12/12]`|        |       
+|:-------------------|:-------------------|
+|`C++:`|[C Fundamentals](https://softuni.bg/certificates/details/20696/f27ca358)`[3/3]`|[C++ Advanced](https://softuni.bg/certificates/details/13120/beb61e2f)`[9/9]`|
+
+#### 5) PHP Web Developer track (minor) `[90/90]`: total credits reached, diploma -> 1 course to go..! 
 
 |Module/Course`[33/60]`|        |       |        |      
 | :----------------|:----------------|:----------------|:----------------|
@@ -58,7 +73,6 @@
 |Elective Courses`[55/55]` |       |      |                      
 |:------------- |:-------------|:-------------|
 |`Analytics focus:`|[Data Structures](https://softuni.bg/certificates/details/63152/1688844f)`[12/12]`|[Algorithms](https://softuni.bg/certificates/details/67151/c1f31fc0)`[12/12]`|
-|`C++ focus:`|[C Fundamentals](https://softuni.bg/certificates/details/20696/f27ca358)`[3/3]`|[C++ Advanced](https://softuni.bg/certificates/details/13120/beb61e2f)`[9/9]`|
 |`Python focus:`|[Python 3 Programming](https://softuni.bg/certificates/details/13010/4ec66d1d)`[4/4]`|[Machine Learning](https://softuni.bg/certificates/details/53315/24e4dc7e)`[6/6]`|
 |`Web boost focus:`|[Adobe Illustrator](https://softuni.bg/Certificates/Details/18533/20c09d4e)`[3/3]`|[Adobe Photoshop](https://creative.softuni.bg/certificates/details/911/a127605c)`[6/6]`|
 
