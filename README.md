@@ -1,12 +1,16 @@
 ## V.J. IT CV
-##### **Major focus on `C#`, `C++`, `Python`, `Java`, and `Matlab` plus some `JS` and `PHP` for applications in `Financial Engineering` -> emphasis on `core programming` and selective `database applications`, `less on web applications`.**
+##### **Technologies: Major focus on `C#`, `C++`, `Python`, `Java`, and `Matlab` plus some `JS` and `PHP` for applications in `Financial Engineering` -> emphasis on `core programming` and selective `database applications`, `less on web applications`.**
+##### **Theory and applications: Selective focus on AI for applications in `Finance` and `Financial Engineering`.**
 ### **IT Training:**
 
-* **[Software University](https://softuni.bg)<sup id="a1">[1](#f1)</sup> - Diploma Software Engineering, double major (pre-session: Q4 2015, coursework: H2 2016-2020, diploma pending)** 
-    ##### **Tracks followed: `C# Web Developer (major);` JS Web Developer (minor); Java Web Developer (minor); PHP Web Developer (minor)**; Electives (courses on `C++` and `Python` - NB: no separate tracks offered on them by SoftUni)<sup id="a2">[2](#f1)</sup>
-    ##### **Active education<sup id="a2">[3](#f1)</sup> -> `completed.` Diploma -> `pending.` Elective courses -> `open-ended` (continuously taking suitable newcomers).**   
+* **[Software University](https://softuni.bg)<sup id="a1">[1](#f1)</sup> - Professional Diploma: Software Engineering, multi-major, focus on technologies (pre-session: Q4 2015, coursework: H2 2016-2020, per course certificates)** 
+    ##### **Tracks followed: `C# Web Developer (major);` `Java Web Developer (major);` `Python Web Developer (major);` `C++ Developer (major);` `JS Web Developer (major);` PHP Web Developer (minor)**; Electives (specialized courses + general IT topics)
+    ##### **Active education<sup id="a2">[2](#f1)</sup> -> `completed.` Diploma -> `pending.` Elective courses -> `open-ended` (continuously taking suitable newcomers).** 
+* **[Sofia University](https://www.fmi.uni-sofia.bg/en/artificial-intelligence) - MSc Artificial Intelligence, selective focus on topics and courses (coursework: 2020-2021 + (2004-2005)<sup id="a2">[2](#f1)</sup>)** 
+    ##### **Advanced Courses (MSc level): Neural Networks, Machine Learning, Reinforcement Learning, Deep Learning TensorFlow, Data Science & Mining, Natural Language Processing, Graph Algorithms, Fast Algorithms, Parallel Algorithms, and Discrete Optimization; 
+    ##### **Thesis & Diploma -> `pending.`**
 * **[Coursera](http://coursera.org) - continuous training**
-* **[National Academy for Software Development (NASD)](http://nars.bg)<sup id="a3">[4](#f1)</sup> - supplementary training, 2016**
+* **[National Academy for Software Development (NASD)](http://nars.bg)<sup id="a4">[4](#f1)</sup> - supplementary training, 2016**
    
 * **One Man Army** 
 
@@ -58,7 +62,10 @@
 |`Python focus:`|[Python 3 Programming](https://softuni.bg/certificates/details/13010/4ec66d1d)`[4/4]`|[Machine Learning](https://softuni.bg/certificates/details/53315/24e4dc7e)`[6/6]`|
 |`Web boost focus:`|[Adobe Illustrator](https://softuni.bg/Certificates/Details/18533/20c09d4e)`[3/3]`|[Adobe Photoshop](https://creative.softuni.bg/certificates/details/911/a127605c)`[6/6]`|
 
-### II. [Coursera](http://coursera.org) Curriculum: 
+### II. [Sofia University](https://www.uni-sofia.bg/index.php/eng) Curriculum:
+##### Neural Networks, Machine Learning, Reinforcement Learning, Deep Learning TensorFlow, Data Science & Mining, Natural Language Processing, Graph Algorithms, Fast Algorithms, Parallel Algorithms, and Discrete Optimization;
+
+### III. [Coursera](http://coursera.org) Curriculum: 
 
 |University/Course|       |   | |    
 |:------------- |:-------------|:-----|:-----|
@@ -71,18 +78,17 @@
 |New York University:|[Guided Tour of Machine Learning in Finance](https://www.coursera.org/account/accomplishments/records/S9EQVEJ6DYL8)|[Fundamentals of Machine Learning in Finance](https://www.coursera.org/account/accomplishments/records/TP8GLZGJ8LN2)|[Reinforcement Learning in Finance](https://www.coursera.org/account/accomplishments/records/44D385XK3897)
 ||[Overview of Advanced Methods of Reinforcement Learning in Finance](https://www.coursera.org/account/accomplishments/records/TM62YX6M6NCG)|[Total: Machine Learning and Reinforcement Learning in Finance](https://www.coursera.org/account/accomplishments/specialization/BK3N7VPGX9D6)
 
-### III. [National Academy for Software Development (NASD)](http://nars.bg) Curriculum: 
-
+### IV. [National Academy for Software Development (NASD)](http://nars.bg) Curriculum: 
 |Professional Courses (individual training)|       |
 | :------------- |:-------------|
 |[C++ Basics](http://nars.bg/wp-content/uploads/2013/02/Introduction-to-programming-C-and-Cpp_Course-Program.pdf)`[re-cap]`|[C++ Advanced](http://nars.bg/wp-content/uploads/2013/12/Cpp_Advanced_Course-Program.pdf)`[68 hours]`|
 
-### IV. OMA Curriculum:
+### V. OMA Curriculum:
 * Matlab -> 15+ years of experience
 * Q/Kdb+ -> 2+ years of experience
 * OCaml and Haskell -> 1+ year of experience
 
 ###### *<b id="f1">1</b> The Software University is a professiona academy (EU law accredited) and the major institution of producing software engineers for the presently booming traditional ([ref1](https://en.wikipedia.org/wiki/John_Vincent_Atanasoff), [ref2](https://en.wikipedia.org/wiki/Pravetz_computers), [ref3](http://stats.ioinformatics.org/countries/), [ref3a](https://www.imo-official.org/results.aspx)) IT sector in Bulgaria and beyond (an international leg forthcoming) via mass education.[↩](#a1)*
-###### *<b id="f1">2</b> A proper one on Python forthcoming in 2020.[↩](#a2)* 
+###### *<b id="f1">2</b> Some courses were recognized from previous studies completed at Sofia University in the period 2004-2005.[↩](#a2)* 
 ###### *<b id="f1">3</b> All modules and material -> covered. Some exams pending due to many exam dates overlaps -> covered usually by weekend fly-outs to Sofia (exams -> Sunday mornings).[↩](#a3)* 
 ###### *<b id="f1">4</b> NASD is a professional academy certified by the Ministry of Education specialized in offering tailor-made solutions in the IT education: in-house advanced corporate trainings, individual courses, small group seminars, etc.[↩](#a4)* 
