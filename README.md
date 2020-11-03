@@ -47,7 +47,7 @@
 |Java Web:|Spring Fundamentals`[0/12]`|Spring Advanced`[0/18]`|
 |Front-End (non-mandatory):|HTML & CSS mini `[0/0]` (no exam)|
 
-#### 3) Python Web Developer track (major) `[120/150]`: total credits close, diploma -> 2 courses to go..! 
+#### 4) Python Web Developer track (major) `[120/150]`: total credits close, diploma -> 2 courses to go..! 
 
 |Module/Course`[48/78]`|        |        |        |   
 |:-------------------|:-------------------|:-------------------|:-------------------|
@@ -56,13 +56,13 @@
 |Python Web:|Python Web Basics`[9/9]`|Django`[0/15]`|
 |Front-End (non-mandatory):|HTML & CSS mini `[0/0]` (no exam)|
 
-#### 4) C++ Developer track (major) `[12/12]`: total credits reached, diploma -> per course certificates (no separate diploma)
+#### 5) C++ Developer track (major) `[12/12]`: total credits reached, diploma -> per course certificates (no separate diploma)
 
-|Module/Course`[12/12]`|        |       
-|:-------------------|:-------------------|
+|Module/Course`[12/12]`|        |        |     
+|:-------------------|:-------------------|:-------------------|
 |`C++:`|[C Fundamentals](https://softuni.bg/certificates/details/20696/f27ca358)`[3/3]`|[C++ Advanced](https://softuni.bg/certificates/details/13120/beb61e2f)`[9/9]`|
 
-#### 5) PHP Web Developer track (minor) `[90/90]`: total credits reached, diploma -> 1 course to go..! 
+#### 6) PHP Web Developer track (minor) `[90/90]`: total credits reached, diploma -> 1 course to go..! 
 
 |Module/Course`[33/60]`|        |       |        |      
 | :----------------|:----------------|:----------------|:----------------|
