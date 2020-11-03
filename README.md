@@ -1,13 +1,13 @@
 ## V.J. IT CV
 ##### **Technologies: Major focus on `C#`, `C++`, `Python`, `Java`, and `Matlab` plus some `JS` and `PHP` for applications in `Financial Engineering` -> emphasis on `core programming` and selective `database applications`, `less on web applications`.**
-##### **Theory and applications: Selective focus on AI for applications in `Finance` and `Financial Engineering`.**
+##### **Theory and applications: Selective focus on `AI` for applications in `Finance` and `Financial Engineering`.**
 ### **IT Training:**
 
 * **[Software University](https://softuni.bg)<sup id="a1">[1](#f1)</sup> - Professional Diploma: Software Engineering, multi-major, focus on technologies (pre-session: Q4 2015, coursework: H2 2016-2020, per course certificates)** 
     ##### **Tracks followed: `C# Web Developer (major);` `Java Web Developer (major);` `Python Web Developer (major);` `C++ Developer (major);` `JS Web Developer (major);` PHP Web Developer (minor)**; Electives (specialized courses + general IT topics)
     ##### **Active education<sup id="a2">[2](#f1)</sup> -> `completed.` Diploma -> `pending.` Elective courses -> `open-ended` (continuously taking suitable newcomers).** 
 * **[Sofia University](https://www.fmi.uni-sofia.bg/en/artificial-intelligence) - MSc Artificial Intelligence, selective focus on topics and courses (coursework: 2020-2021 + (2004-2005)<sup id="a2">[2](#f1)</sup>)** 
-    ##### **Advanced Courses (MSc level): Neural Networks, Machine Learning, Reinforcement Learning, Deep Learning TensorFlow, Data Science & Mining, Natural Language Processing, Graph Algorithms, Fast Algorithms, Parallel Algorithms, and Discrete Optimization; 
+    ##### **Advanced Courses (MSc level): Neural Networks, Machine Learning, Reinforcement Learning, Deep Learning TensorFlow, Data Science & Mining, Natural Language Processing, Graph Algorithms, Fast Algorithms, Parallel Algorithms, and Discrete Optimization;**
     ##### **Thesis & Diploma -> `pending.`**
 * **[Coursera](http://coursera.org) - continuous training**
 * **[National Academy for Software Development (NASD)](http://nars.bg)<sup id="a4">[4](#f1)</sup> - supplementary training, 2016**
