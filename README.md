@@ -56,7 +56,7 @@
 |Python Web:|Python Web Basics`[9/9]`|Django`[0/15]`|
 |Front-End (non-mandatory):|HTML & CSS mini `[0/0]` (no exam)|
 
-#### 5) C++ Developer mini track (major) `[12/12]`: total credits reached, diploma -> per course certificates (no separate diploma)
+#### 5) C++ Developer mini track (major) `[12/12]`: total credits reached, diploma -> per-course certificates (no separate diploma)
 
 |Module/Course`[12/12]`|        |        |     
 |:-------------------|:-------------------|:-------------------|
