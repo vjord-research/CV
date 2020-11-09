@@ -53,7 +53,7 @@
 |:-------------------|:-------------------|:-------------------|:-------------------|
 |Python Advanced:|[Python Advanced](https://softuni.bg/certificates/details/13010/4ec66d1d)`[12/12]`|Python OOP `[0/15]`
 |JavaScript Core:|[JS Fundamentals](https://softuni.bg/certificates/details/20695/9feec24e)`[9/9]`|[JS Advanced](https://softuni.bg/certificates/details/21911/a411ddcd)`[9/9]`|[JS Applications](https://softuni.bg/certificates/details/22571/24dd49e3)`[9/9]`|
-|Python Web:|Python Web Basics`[9/9]`|Django`[0/15]`|
+|Python Web:|[Python Web Basics](https://softuni.bg/certificates/details/91145/f2677fba)`[9/9]`|Django`[0/15]`|
 |Front-End (non-mandatory):|HTML & CSS mini `[0/0]` (no exam)|
 
 #### 5) C++ Developer mini track (major) `[12/12]`: total credits reached, diploma -> per-course certificates (no separate diploma)
