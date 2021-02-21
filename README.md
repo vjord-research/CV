@@ -77,7 +77,7 @@
 |`Web boost focus:`|[Adobe Illustrator](https://softuni.bg/Certificates/Details/18533/20c09d4e)`[3/3]`|[Adobe Photoshop](https://creative.softuni.bg/certificates/details/911/a127605c)`[6/6]`|
 
 ### II. [Sofia University](https://www.uni-sofia.bg/index.php/eng) Curriculum:
-##### Neural Networks, Machine Learning, Reinforcement Learning, Deep Learning TensorFlow, Data Science & Mining, Natural Language Processing, Discrete Optimization, Graph Algorithms, Fast Algorithms, Parallel Algorithms, Algorithms Practicum, and Data Structures Practicum;
+##### Data Science & Mining, Neural Networks, Machine Learning, Reinforcement Learning, Deep Learning TensorFlow, Natural Language Processing, Discrete Optimization, Graph Algorithms, Fast Algorithms, Parallel Algorithms, Data Structures Practicum, and Algorithms Practicum;
 
 ### III. [Coursera+](http://coursera.org) Curriculum: 
 
