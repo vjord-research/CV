@@ -9,7 +9,7 @@
 * **[Sofia University](https://www.fmi.uni-sofia.bg/en/artificial-intelligence) - MSc Artificial Intelligence, selective focus on topics and courses (coursework: 2020-2021 + (2004-2005)<sup id="a3">[3](#f1)</sup>)** 
     ##### **Advanced Courses (MSc level): Neural Networks, Machine Learning, Reinforcement Learning, Deep Learning TensorFlow, Data Science & Mining, Natural Language Processing, Graph Algorithms, Fast Algorithms, Parallel Algorithms, and Discrete Optimization;**
     ##### **Thesis & Diploma -> `pending.`**
-* **[Coursera]+(http://coursera.org) - continuous training**
+* **[Coursera+](http://coursera.org) - continuous training**
 * **[National Academy for Software Development (NASD)](http://nars.bg)<sup id="a4">[4](#f1)</sup> - supplementary training, 2016**
    
 * **One Man Army** 
@@ -79,7 +79,7 @@
 ### II. [Sofia University](https://www.uni-sofia.bg/index.php/eng) Curriculum:
 ##### Neural Networks, Machine Learning, Reinforcement Learning, Deep Learning TensorFlow, Data Science & Mining, Natural Language Processing, Discrete Optimization, Graph Algorithms, Fast Algorithms, Parallel Algorithms, Algorithms Practicum, and Data Structures Practicum;
 
-### III. [Coursera]+ (http://coursera.org) Curriculum: 
+### III. [Coursera+] (http://coursera.org) Curriculum: 
 
 |University/Course|       |   | |    
 |:------------- |:-------------|:-----|:-----|
@@ -94,7 +94,7 @@
 
 |Additional trainings|        | 
 |:------------- |:-------------|
-|IBM|[cognitiveclass.ai](https://www.youracclaim.com/users/vilimir-yordanov/badges)|
+|IBM: cognitiveclass.ai: Big Data/Data Science/DL/Scala/Python|[Badges](https://www.youracclaim.com/users/vilimir-yordanov/badges)|
 
 
 ### IV. [National Academy for Software Development (NASD)](http://nars.bg) Curriculum: 
