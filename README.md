@@ -79,7 +79,7 @@
 ### II. [Sofia University](https://www.uni-sofia.bg/index.php/eng) Curriculum:
 ##### Neural Networks, Machine Learning, Reinforcement Learning, Deep Learning TensorFlow, Data Science & Mining, Natural Language Processing, Discrete Optimization, Graph Algorithms, Fast Algorithms, Parallel Algorithms, Algorithms Practicum, and Data Structures Practicum;
 
-### III. [Coursera+] (http://coursera.org) Curriculum: 
+### III. [Coursera+](http://coursera.org) Curriculum: 
 
 |University/Course|       |   | |    
 |:------------- |:-------------|:-----|:-----|
