@@ -9,7 +9,7 @@
 * **[Sofia University](https://www.fmi.uni-sofia.bg/en/artificial-intelligence) - MSc Artificial Intelligence, selective focus on topics and courses (coursework: 2020-2021 + (2004-2005)<sup id="a3">[3](#f1)</sup>)** 
     ##### **Advanced Courses (MSc level): Neural Networks, Machine Learning, Reinforcement Learning, Deep Learning TensorFlow, Data Science & Mining, Natural Language Processing, Graph Algorithms, Fast Algorithms, Parallel Algorithms, and Discrete Optimization;**
     ##### **Thesis & Diploma -> `pending.`**
-* **[Coursera](http://coursera.org) - continuous training**
+* **[Coursera]+(http://coursera.org) - continuous training**
 * **[National Academy for Software Development (NASD)](http://nars.bg)<sup id="a4">[4](#f1)</sup> - supplementary training, 2016**
    
 * **One Man Army** 
@@ -77,9 +77,9 @@
 |`Web boost focus:`|[Adobe Illustrator](https://softuni.bg/Certificates/Details/18533/20c09d4e)`[3/3]`|[Adobe Photoshop](https://creative.softuni.bg/certificates/details/911/a127605c)`[6/6]`|
 
 ### II. [Sofia University](https://www.uni-sofia.bg/index.php/eng) Curriculum:
-##### Neural Networks, Machine Learning, Reinforcement Learning, Deep Learning TensorFlow, Data Science & Mining, Natural Language Processing, Graph Algorithms, Fast Algorithms, Parallel Algorithms, and Discrete Optimization;
+##### Neural Networks, Machine Learning, Reinforcement Learning, Deep Learning TensorFlow, Data Science & Mining, Natural Language Processing, Discrete Optimization, Graph Algorithms, Fast Algorithms, Parallel Algorithms, Algorithms Practicum, and Data Structures Practicum;
 
-### III. [Coursera](http://coursera.org) Curriculum: 
+### III. [Coursera]+ (http://coursera.org) Curriculum: 
 
 |University/Course|       |   | |    
 |:------------- |:-------------|:-----|:-----|
@@ -91,6 +91,11 @@
 |University of Michigan:|[Python Data Structures](https://www.coursera.org/account/accomplishments/certificate/56H3YHB5TJZN)|[Using Databases with Python](https://www.coursera.org/account/accomplishments/certificate/UXHSA4ASUM5L)|[Using Python to Access Web Data](https://www.coursera.org/account/accomplishments/certificate/7YEXBSJQHTEU)
 |New York University:|[Guided Tour of Machine Learning in Finance](https://www.coursera.org/account/accomplishments/records/S9EQVEJ6DYL8)|[Fundamentals of Machine Learning in Finance](https://www.coursera.org/account/accomplishments/records/TP8GLZGJ8LN2)|[Reinforcement Learning in Finance](https://www.coursera.org/account/accomplishments/records/44D385XK3897)
 ||[Overview of Advanced Methods of Reinforcement Learning in Finance](https://www.coursera.org/account/accomplishments/records/TM62YX6M6NCG)|[Total: Machine Learning and Reinforcement Learning in Finance](https://www.coursera.org/account/accomplishments/specialization/BK3N7VPGX9D6)
+
+|Additional trainings|        | 
+|:------------- |:-------------|
+|IBM|[cognitiveclass.ai](https://www.youracclaim.com/users/vilimir-yordanov/badges)|
+
 
 ### IV. [National Academy for Software Development (NASD)](http://nars.bg) Curriculum: 
 |Professional Courses (individual training)|       |
