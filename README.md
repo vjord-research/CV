@@ -94,7 +94,7 @@
 
 |Additional trainings|        | 
 |:------------- |:-------------|
-|IBM: cognitiveclass.ai: Big Data/Data Science/DL/Scala/Python|[Badges](https://www.youracclaim.com/users/vilimir-yordanov/badges)|
+|IBM (cognitiveclass.ai): Data Science/Big Data/DL/Scala/Python|[Badges](https://www.youracclaim.com/users/vilimir-yordanov/badges)|
 
 
 ### IV. [National Academy for Software Development (NASD)](http://nars.bg) Curriculum: 
