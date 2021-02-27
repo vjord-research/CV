@@ -105,7 +105,7 @@
 ### V. OMA Curriculum:
 * Matlab -> 15+ years of experience
 * Q/Kdb+ -> 2+ years of experience
-* OCaml and Scala -> 1+ year of experience
+* Scala -> 1+ year of experience
 
 ###### *<b id="f1">1</b> The Software University is a professional academy (EU law accredited) and the major institution of producing software engineers for the presently booming traditional ([ref1](https://en.wikipedia.org/wiki/John_Vincent_Atanasoff), [ref2](https://en.wikipedia.org/wiki/Pravetz_computers), [ref3](http://stats.ioinformatics.org/countries/), [ref3a](https://www.imo-official.org/results.aspx)) IT sector in Bulgaria and beyond (an international leg forthcoming) via mass education.[↩](#a1)*
 ###### *<b id="f1">2</b> All modules and material -> covered. Some exams pending due to many exam dates overlaps -> covered usually by weekend fly-outs to Sofia (exams -> Sunday mornings).[↩](#a2)* 
