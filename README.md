@@ -72,7 +72,7 @@
 
 |Elective Courses`[55/55]` |       |      |                      
 |:------------- |:-------------|:-------------|
-|`Analytics focus:`|[Data Structures](https://softuni.bg/certificates/details/63152/1688844f)`[12/12]`|[Algorithms](https://softuni.bg/certificates/details/67151/c1f31fc0)`[12/12]`|
+|`Analytics focus:`|[Data Structures](https://softuni.bg/certificates/details/63152/1688844f)`(C#, Java)[12/12]`|[Algorithms](https://softuni.bg/certificates/details/67151/c1f31fc0)`[12/12]`|
 |`Python focus:`|[Python 3 Programming](https://softuni.bg/certificates/details/13010/4ec66d1d)`[4/4]`|[Machine Learning](https://softuni.bg/certificates/details/53315/24e4dc7e)`[6/6]`|
 |`Web boost focus:`|[Adobe Illustrator](https://softuni.bg/Certificates/Details/18533/20c09d4e)`[3/3]`|[Adobe Photoshop](https://creative.softuni.bg/certificates/details/911/a127605c)`[6/6]`|
 
