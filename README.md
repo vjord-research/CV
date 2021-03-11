@@ -7,7 +7,7 @@
     ##### **Tracks followed: `C# Web Developer (major);` `Java Web Developer (major);` `Python Web Developer (major);` `C++ Developer (major);` `JS Web Developer (major);` PHP Web Developer (minor)**; Electives (specialized courses + general IT topics)
     ##### **Active education<sup id="a2">[2](#f1)</sup> -> `completed.` Diploma -> `pending.` Elective courses -> `open-ended` (continuously taking suitable newcomers).** 
 * **[Sofia University](https://www.fmi.uni-sofia.bg/en/artificial-intelligence) - MSc Artificial Intelligence, selective focus on topics and courses (coursework: 2020-2021 + (2004-2005)<sup id="a3">[3](#f1)</sup>)** 
-    ##### **Advanced Courses (MSc level): Data Science & Mining, Neural Networks, Machine Learning, Reinforcement Learning, Deep Learning TensorFlow, Natural Language Processing, Discrete Optimization, Graph Algorithms, Fast Algorithms, Parallel Algorithms, Cloud and Grid Computing, Data Structures Practicum (C++), and Algorithms Practicum (C++);**
+    ##### **Advanced Courses (MSc level): Data Science & Mining, Neural Networks, Machine Learning, Reinforcement Learning, Deep Learning TensorFlow, Natural Language Processing, Discrete Optimization, Graph Algorithms, Fast Algorithms, Parallel Algorithms, Cloud and Grid Computing, Scala, Data Structures Practicum (C++), and Algorithms Practicum (C++);**
     ##### **Thesis & Diploma -> `pending.`**
 * **[Coursera+](http://coursera.org) - continuous training**
 * **[National Academy for Software Development (NASD)](http://nars.bg)<sup id="a4">[4](#f1)</sup> - supplementary training, 2016**
