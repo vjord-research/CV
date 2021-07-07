@@ -29,12 +29,12 @@
 |C# Web:|C# Web Basics`[0/12]`|ASP.NET Core`[0/18]`|
 |Front-End (non-mandatory):|HTML & CSS mini `[0/0]` (no exam)|
 
-#### 2) JS Web Developer track (major) `[90/90]`: total credits reached, diploma -> 1 course to go..! 
+#### 2) JS Web Developer track (major) `[90/90]`: total credits reached, diploma -> course requirements covered, diploma under issuance! 
 
-|Module/Course`[41/57]`|       |       |        |   
+|Module/Course`[56/58]`|       |       |        |   
 | :----------------|:----------------|:----------------|:----------------|
 |JavaScript Core:|[JS Fundamentals](https://softuni.bg/certificates/details/20695/9feec24e)`[9/9]`|[JS Advanced](https://softuni.bg/certificates/details/21911/a411ddcd)`[9/9]`|[JS Applications](https://softuni.bg/certificates/details/22571/24dd49e3)`[9/9]`|
-|JavaScript Web:|Node.js & Express.js`[0/8]`|[ReactJS](https://softuni.bg/certificates/details/57642/f47efbf7)`[8/8]`|Angular 2`[6/8]`|
+|JavaScript Web:|[JS Back-End](https://softuni.bg/certificates/details/109004/653000e7)`[15/15]`|[ReactJS](https://softuni.bg/certificates/details/57642/f47efbf7)`[8/8]`|Angular 2`[6/8]`|
 |Front-End (non-mandatory):|HTML & CSS mini `[0/0]`|
 
 #### 3) Java Web Developer track (major) `[150/150]`: total credits reached, diploma -> 2 courses to go..! 
