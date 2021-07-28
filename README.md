@@ -3,7 +3,7 @@
 ##### **Theory and applications: Selective focus on `Artificial Intelligence` for applications in `Finance` and `Financial Engineering`.**
 ### **IT Training:**
 
-* **[Software University](https://softuni.bg)<sup id="a1">[1](#f1)</sup> - Professional Diploma: Software Engineering, multi-major, focus on technologies (pre-session: Q4 2015, coursework: H2 2016-2020, per course certificates)** 
+* **[Software University](https://softuni.bg)<sup id="a1">[1](#f1)</sup> - Professional Diploma: Software Engineering, multi-major, focus on technologies (pre-session: Q4 2015, coursework: H2 2016-2021, per course certificates)** 
     ##### **Tracks followed: `C# Web Developer (major);` `Java Web Developer (major);` `Python Web Developer (major);` `C++ Developer (major);` `JS Web Developer (major);` PHP Web Developer (minor)**; Electives (specialized courses + general IT topics)
     ##### **Active education<sup id="a2">[2](#f1)</sup> -> `completed.` Diploma -> `pending.` Elective courses -> `open-ended` (continuously taking suitable newcomers).** 
 * **[Sofia University](https://www.fmi.uni-sofia.bg/en/artificial-intelligence) - MSc Artificial Intelligence, selective focus on topics and courses (coursework: 2020-2021 + (2004-2005)<sup id="a3">[3](#f1)</sup>)** 
