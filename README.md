@@ -7,8 +7,8 @@
     ##### **Tracks followed: `C# Web Developer (major);` `Java Web Developer (major);` `Python Web Developer (major);` `C++ Developer (major);` `JS Web Developer (major);` PHP Web Developer (minor)**; Electives (specialized courses + general IT topics)
     ##### **Active education<sup id="a2">[2](#f1)</sup> -> `completed.` Diploma -> `pending.` Elective courses -> `open-ended` (continuously taking suitable newcomers).** 
 * **[Sofia University](https://www.fmi.uni-sofia.bg/en/artificial-intelligence) - MSc Artificial Intelligence, selective focus on topics and courses (coursework: 2020-2021 + (2004-2005)<sup id="a3">[3](#f1)</sup>)** 
-    ##### **Advanced Courses (MSc level): Data Science, Data Mining, Neural Networks, Machine Learning, Reinforcement Learning, Deep Learning TensorFlow, Natural Language Processing, Discrete Optimization, Graph Algorithms, Fast Algorithms, Parallel Algorithms, Cloud and Grid Computing, Knowledge Representation & Reasoning, Knowledge Base, Data Structures Practicum (C++), and Algorithms Practicum (C++);**
-    ##### **Thesis & Diploma -> `pending.`**
+ ##### **Advanced Courses (MSc level): Data Science, Neural Networks, Machine Learning, Reinforcement Learning, Deep Learning TensorFlow, Natural Language Processing, Discrete Optimization, Graph Algorithms, Parallel Algorithms, Cloud and Grid Computing, Knowledge Representation & Reasoning, Knowledge Base, Data Structures Practicum (C++), and Algorithms Practicum (C++);**
+    ##### **Courses -> `completed`; Credits -> `covered`; Thesis & Diploma -> `pending`.**
 * **[Coursera+](http://coursera.org) - continuous training**
 * **[National Academy for Software Development (NASD)](http://nars.bg)<sup id="a4">[4](#f1)</sup> - supplementary training, 2016**
    
@@ -77,7 +77,7 @@
 |`Web boost focus:`|[Adobe Illustrator](https://softuni.bg/Certificates/Details/18533/20c09d4e)`[3/3]`|[Adobe Photoshop](https://creative.softuni.bg/certificates/details/911/a127605c)`[6/6]`|
 
 ### II. [Sofia University](https://www.uni-sofia.bg/index.php/eng) Curriculum:
-##### Data Science, Data Mining, Neural Networks, Machine Learning, Reinforcement Learning, Deep Learning TensorFlow, Natural Language Processing, Discrete Optimization, Graph Algorithms, Fast Algorithms, Parallel Algorithms, Cloud and Grid Computing, Knowledge Representation & Reasoning, Knowledge Base, Data Structures Practicum (C++), and Algorithms Practicum (C++);
+##### Advanced Courses (MSc level): Data Science, Neural Networks, Machine Learning, Reinforcement Learning, Deep Learning TensorFlow, Natural Language Processing, Discrete Optimization, Graph Algorithms, Parallel Algorithms, Cloud and Grid Computing, Knowledge Representation & Reasoning, Knowledge Base, Data Structures Practicum (C++), and Algorithms Practicum (C++);
 
 ### III. [Coursera+](http://coursera.org) Curriculum: 
 
